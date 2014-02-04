@@ -1,4 +1,0 @@
-alien-otr
-=========
-
-Alien::OTR
