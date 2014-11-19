@@ -1,6 +1,8 @@
 Revision history for Perl extension Alien::OTR.
 
 {{$NEXT}}
+    Provide libotr 4.1.0.
+    Compile using Alien::GPG::Error and Alien::GCrypt (so it works on Raspi).
 
 4.0.0.1 2014-06-16 01:27:50
     Use latest devel branch of libotr.
