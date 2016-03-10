@@ -21,7 +21,7 @@ __END__
     
 =head1 DESCRIPTION
 
-Alien::OTR installs the C library C<libotr> version v4.1.0.
+Alien::OTR installs the C library C<libotr> version v4.1.1.
 
 =head1 SEE ALSO
 
